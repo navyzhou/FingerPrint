@@ -1,4 +1,4 @@
-package com.yc;
+package com.yc.fingerprint;
 
 import java.awt.AlphaComposite;
 import java.awt.Color;

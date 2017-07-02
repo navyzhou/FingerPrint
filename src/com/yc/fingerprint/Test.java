@@ -1,4 +1,4 @@
-package com.yc;
+package com.yc.fingerprint;
 
 import java.io.File;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package com.yc;
+package com.yc.fingerprint;
 
 import javax.imageio.ImageIO;
 
